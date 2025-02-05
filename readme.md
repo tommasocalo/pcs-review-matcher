@@ -168,40 +168,6 @@ The primary goal of this project is to automatically match reviewers with papers
 ```json
 [
   {
-    "title": "TechTrends: A New Era in Workplace Innovation",
-    "abstract": "This paper investigates emerging technologies in modern workspaces, analyzing their impact on productivity and collaboration. It provides recommendations for technology adoption and discusses future trends...",
-    "potential_reviewers": [
-      {
-        "Score": "0.06",
-        "Bid": "1",
-        "Name": "Ximing Shen",
-        "Position": "researcher",
-        "Years afterPhD": "0",
-        "Pubs in lastsix years": "3",
-        "Committee?": "cmte",
-        "VolunteeredReviews": "0",
-        "AssignedReviews": "10",
-        "PrimaryReviews": "10",
-        "SecondaryReviews": "0",
-        "Action": "assign"
-      },
-      {
-        "Score": "0.07",
-        "Bid": "1",
-        "Name": "Ashley Zhang",
-        "Position": "student",
-        "Years afterPhD": "21",
-        "Pubs in lastsix years": "6",
-        "Committee?": "cmte",
-        "VolunteeredReviews": "0",
-        "AssignedReviews": "9",
-        "PrimaryReviews": "9",
-        "SecondaryReviews": "0",
-        "Action": "assign"
-      }
-    ]
-  },
-  {
     "title": "AI in Healthcare: Innovations and Challenges",
     "abstract": "This study explores the application of artificial intelligence in healthcare settings, highlighting innovative solutions and discussing challenges in implementation. The research provides insights into future directions...",
     "potential_reviewers": [
