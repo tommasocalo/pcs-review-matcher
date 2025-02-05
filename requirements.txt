@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+transformers
+transformers-adapters
+sentence-transformers
+scikit-learn
+numpy
+selenium
+pandas
+tqdm
+python-dotenv
