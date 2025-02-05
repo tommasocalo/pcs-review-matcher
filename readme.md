@@ -1,6 +1,6 @@
 # Review Matcher
 
-This project scrapes a PCS website for reviewer and submission information, embeds the text using the SPECTER2 model, and computes matching scores (Euclidean distances) between each paper and each reviewer. The goal is to automatically match reviewers with papers by comparing the semantic similarity between paper content (title and abstract) and reviewer profiles (name and expert keywords).
+This project scrapes PCS website for reviewer and submission information, embeds the text using the SPECTER2 model, and computes matching scores (Euclidean distances) between each paper and each reviewer. The goal is to automatically match reviewers with papers by comparing the semantic similarity between paper content (title and abstract) and reviewer profiles (expert keywords).
 
 The SPECTER2 model is a transformer-based language model fine-tuned for scientific paper retrieval. It generates embeddings that capture the meaning of scientific texts, enabling effective similarity comparisons via Euclidean distance.
 
