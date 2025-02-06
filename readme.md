@@ -143,15 +143,6 @@ The primary goal of this project is to automatically match reviewers with papers
 ```json
 [
   {
-    "name": "Yuichiro Iwashita",
-    "affiliation": "Graduate School of Informatics, Osaka Metropolitan University, yuichiro@omu.ac.jp",
-    "expert": [
-      "Education/Learning",
-      "Mobile Devices: Phones/Tablets",
-      "Tasks/Interruptions/Notification"
-    ]
-  },
-  {
     "name": "Jane Doe",
     "affiliation": "Department of Computer Science, Fictional University, jane.doe@fictional.edu",
     "expert": [
